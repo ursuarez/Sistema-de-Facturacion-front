@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"top",
+				"border-top"
+			],
+			[
 				"mar",
 				"margin-bottom"
 			],
@@ -172,10 +180,6 @@
 				"link	Tag"
 			],
 			[
-				"padd",
-				"padding-left"
-			],
-			[
 				"in",
 				"inline"
 			],
@@ -279,6 +283,30 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "css/shop-item.css",
+			"settings":
+			{
+				"buffer_size": 543,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "clientes-administrar.html",
+			"settings":
+			{
+				"buffer_size": 4237,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/acidm/Documents/Proyectos Web/Proyecto-Egresados-1/css/main.css",
+			"settings":
+			{
+				"buffer_size": 1221,
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -376,13 +404,14 @@
 	},
 	"file_history":
 	[
-		"/C/Users/acidm/Documents/Proyectos Web/Sistema Facturacion/index.html",
+		"/C/Users/acidm/Documents/Proyectos Web/Proyecto-Egresados-1/css/formulario.css",
+		"/C/Users/acidm/Documents/Proyectos Web/Sistema Facturacion/clientes-listado.html",
 		"/C/Users/acidm/Documents/Proyectos Web/Sistema Facturacion/factura-reporte.html",
 		"/C/Users/acidm/Documents/Proyectos Web/Sistema Facturacion/factura.html",
-		"/C/Users/acidm/Documents/Proyectos Web/Sistema Facturacion/clientes-listado.html",
-		"/C/Users/acidm/Documents/Proyectos Web/Sistema Facturacion/clientes-administrar.html",
-		"/C/Users/acidm/Documents/Proyectos Web/Sistema Facturacion/productos-listado.html",
+		"/C/Users/acidm/Documents/Proyectos Web/Sistema Facturacion/index.html",
 		"/C/Users/acidm/Documents/Proyectos Web/Sistema Facturacion/productos-administrar.html",
+		"/C/Users/acidm/Documents/Proyectos Web/Sistema Facturacion/productos-listado.html",
+		"/C/Users/acidm/Documents/Proyectos Web/Sistema Facturacion/clientes-administrar.html",
 		"/C/Users/acidm/Documents/Proyectos Web/SoftBros/css/inicio.styl",
 		"/C/Users/acidm/Documents/Proyectos Web/SoftBros/css/inicio.css",
 		"/C/Users/acidm/Documents/Proyectos Web/SoftBros/css/main.css",
@@ -510,6 +539,8 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"=\"ratings\"",
+			"ratings",
 			"Clientes",
 			"contador",
 			"1",
@@ -565,8 +596,90 @@
 	"groups":
 	[
 		{
+			"selected": 2,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "css/shop-item.css",
+					"settings":
+					{
+						"buffer_size": 543,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								371,
+								371
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "clientes-administrar.html",
+					"settings":
+					{
+						"buffer_size": 4237,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								885,
+								4227
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1169.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/acidm/Documents/Proyectos Web/Proyecto-Egresados-1/css/main.css",
+					"settings":
+					{
+						"buffer_size": 1221,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1220,
+								846
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 548.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
