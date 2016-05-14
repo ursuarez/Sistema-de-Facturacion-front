@@ -30,6 +30,12 @@ footer {
 }
 
 
+.center-block {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 #Button1 {
 	color: white;
 	background: #0080d6;
