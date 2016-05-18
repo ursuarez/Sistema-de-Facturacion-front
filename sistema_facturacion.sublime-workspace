@@ -283,6 +283,63 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "/C/Users/acidm/Downloads/startbootstrap-shop-item-1.0.4/css/shop-item.css",
+			"settings":
+			{
+				"buffer_size": 596,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "clientes-administrar.html",
+			"settings":
+			{
+				"buffer_size": 7778,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": " <form class=\"form-horizontal\" role=\"form\">  ",
+			"settings":
+			{
+				"buffer_size": 45,
+				"line_ending": "Windows",
+				"name": "<form class=\"form-horizontal\" role=\"form\">"
+			}
+		},
+		{
+			"file": "css/shop-item.css",
+			"settings":
+			{
+				"buffer_size": 1782,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "clientes-empresas-adm.html",
+			"settings":
+			{
+				"buffer_size": 7732,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "productos-administrar.html",
+			"settings":
+			{
+				"buffer_size": 7753,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "productos-categorias-adm.html",
+			"settings":
+			{
+				"buffer_size": 7752,
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -380,18 +437,19 @@
 	},
 	"file_history":
 	[
+		"/C/Users/acidm/Documents/Proyectos Web/FrontEnd/css/reticula.css",
+		"/C/Users/acidm/Documents/Proyectos Web/Sistema Facturacion/productos-listado.html",
+		"/C/Users/acidm/Documents/Proyectos Web/Sistema Facturacion/productos-categorias-lis.html",
+		"/C/Users/acidm/Documents/Proyectos Web/Sistema Facturacion/css/shop-item.css",
+		"/C/Users/acidm/Documents/Proyectos Web/Sistema Facturacion/clientes-listado.html",
+		"/C/Users/acidm/Documents/Proyectos Web/Sistema Facturacion/clientes-empresas-lis.html",
 		"/C/Users/acidm/Documents/Proyectos Web/Sistema Facturacion/index.html",
 		"/C/Users/acidm/Documents/Proyectos Web/Sistema Facturacion/clientes-administrar.html",
 		"/C/Users/acidm/Documents/Proyectos Web/Sistema Facturacion/clientes-empresas-adm.html",
 		"/C/Users/acidm/Documents/Proyectos Web/Sistema Facturacion/productos-categorias-adm.html",
 		"/C/Users/acidm/Documents/Proyectos Web/Sistema Facturacion/productos-administrar.html",
-		"/C/Users/acidm/Documents/Proyectos Web/Sistema Facturacion/css/shop-item.css",
-		"/C/Users/acidm/Documents/Proyectos Web/Sistema Facturacion/clientes-empresas-lis.html",
-		"/C/Users/acidm/Documents/Proyectos Web/Sistema Facturacion/clientes-listado.html",
 		"/C/Users/acidm/Documents/Proyectos Web/Sistema Facturacion/factura-reporte.html",
 		"/C/Users/acidm/Documents/Proyectos Web/Sistema Facturacion/factura.html",
-		"/C/Users/acidm/Documents/Proyectos Web/Sistema Facturacion/productos-categorias-lis.html",
-		"/C/Users/acidm/Documents/Proyectos Web/Sistema Facturacion/productos-listado.html",
 		"/C/Users/acidm/Documents/Proyectos Web/Sistema Facturacion/Facturacion.bak",
 		"/C/Users/acidm/Documents/Proyectos Web/Sistema Facturacion/clientes-em-administrar.html",
 		"/C/Users/acidm/Documents/Proyectos Web/Proyecto-Egresados-1/css/main.css",
@@ -440,7 +498,6 @@
 		"/C/Users/acidm/Documents/Proyectos Web/FrontEnd/css/secciones.css",
 		"/C/Users/acidm/Documents/Proyectos Web/FrontEnd/css/editorial.css",
 		"/C/Users/acidm/Documents/Proyectos Web/FrontEnd/git.html",
-		"/C/Users/acidm/Documents/Proyectos Web/FrontEnd/css/reticula.css",
 		"/C/Users/acidm/Documents/Proyectos Web/index.html",
 		"/C/Users/acidm/Documents/Proyectos Web/FrontEnd/perros.html",
 		"/C/Users/acidm/Desktop/calculadora1-master/css_calculadora1.css",
@@ -580,8 +637,201 @@
 	"groups":
 	[
 		{
+			"selected": 6,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/acidm/Downloads/startbootstrap-shop-item-1.0.4/css/shop-item.css",
+					"settings":
+					{
+						"buffer_size": 596,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3,
+								3
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "clientes-administrar.html",
+					"settings":
+					{
+						"buffer_size": 7778,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6110,
+								6115
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1611.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"settings":
+					{
+						"buffer_size": 45,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								45,
+								45
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<form class=\"form-horizontal\" role=\"form\">",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "css/shop-item.css",
+					"settings":
+					{
+						"buffer_size": 1782,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								240,
+								212
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 16.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "clientes-empresas-adm.html",
+					"settings":
+					{
+						"buffer_size": 7732,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6078,
+								6078
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1491.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "productos-administrar.html",
+					"settings":
+					{
+						"buffer_size": 7753,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6126,
+								6126
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1444.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "productos-categorias-adm.html",
+					"settings":
+					{
+						"buffer_size": 7752,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6127,
+								6127
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 740.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
