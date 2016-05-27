@@ -284,60 +284,27 @@
 	"buffers":
 	[
 		{
-			"file": "/C/Users/acidm/Downloads/startbootstrap-shop-item-1.0.4/css/shop-item.css",
+			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 596,
+				"buffer_size": 5098,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "clientes-administrar.html",
+			"file": "/C/Users/acidm/Desktop/startbootstrap-landing-page-1.0.5/index.html",
 			"settings":
 			{
-				"buffer_size": 7778,
-				"line_ending": "Windows"
+				"buffer_size": 11188,
+				"line_ending": "Unix"
 			}
 		},
 		{
-			"contents": " <form class=\"form-horizontal\" role=\"form\">  ",
+			"file": "/C/Users/acidm/Desktop/startbootstrap-landing-page-1.0.5/css/landing-page.css",
 			"settings":
 			{
-				"buffer_size": 45,
-				"line_ending": "Windows",
-				"name": "<form class=\"form-horizontal\" role=\"form\">"
-			}
-		},
-		{
-			"file": "css/shop-item.css",
-			"settings":
-			{
-				"buffer_size": 1782,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "clientes-empresas-adm.html",
-			"settings":
-			{
-				"buffer_size": 7732,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "productos-administrar.html",
-			"settings":
-			{
-				"buffer_size": 7753,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "productos-categorias-adm.html",
-			"settings":
-			{
-				"buffer_size": 7752,
-				"line_ending": "Windows"
+				"buffer_size": 2933,
+				"line_ending": "Unix"
 			}
 		}
 	],
@@ -437,17 +404,20 @@
 	},
 	"file_history":
 	[
+		"/C/Users/acidm/Documents/Proyectos Web/Sistema Facturacion/css/shop-item.css",
+		"/C/Users/acidm/Documents/Proyectos Web/Sistema Facturacion/css/main.css",
+		"/C/Users/acidm/Documents/Proyectos Web/Sistema Facturacion/css/bootstrap.css",
+		"/C/Users/acidm/Documents/Proyectos Web/Sistema Facturacion/clientes-administrar.html",
+		"/C/Users/acidm/Downloads/startbootstrap-shop-item-1.0.4/css/shop-item.css",
+		"/C/Users/acidm/Documents/Proyectos Web/Sistema Facturacion/productos-categorias-adm.html",
+		"/C/Users/acidm/Documents/Proyectos Web/Sistema Facturacion/productos-administrar.html",
+		"/C/Users/acidm/Documents/Proyectos Web/Sistema Facturacion/clientes-empresas-adm.html",
 		"/C/Users/acidm/Documents/Proyectos Web/FrontEnd/css/reticula.css",
 		"/C/Users/acidm/Documents/Proyectos Web/Sistema Facturacion/productos-listado.html",
 		"/C/Users/acidm/Documents/Proyectos Web/Sistema Facturacion/productos-categorias-lis.html",
-		"/C/Users/acidm/Documents/Proyectos Web/Sistema Facturacion/css/shop-item.css",
 		"/C/Users/acidm/Documents/Proyectos Web/Sistema Facturacion/clientes-listado.html",
 		"/C/Users/acidm/Documents/Proyectos Web/Sistema Facturacion/clientes-empresas-lis.html",
 		"/C/Users/acidm/Documents/Proyectos Web/Sistema Facturacion/index.html",
-		"/C/Users/acidm/Documents/Proyectos Web/Sistema Facturacion/clientes-administrar.html",
-		"/C/Users/acidm/Documents/Proyectos Web/Sistema Facturacion/clientes-empresas-adm.html",
-		"/C/Users/acidm/Documents/Proyectos Web/Sistema Facturacion/productos-categorias-adm.html",
-		"/C/Users/acidm/Documents/Proyectos Web/Sistema Facturacion/productos-administrar.html",
 		"/C/Users/acidm/Documents/Proyectos Web/Sistema Facturacion/factura-reporte.html",
 		"/C/Users/acidm/Documents/Proyectos Web/Sistema Facturacion/factura.html",
 		"/C/Users/acidm/Documents/Proyectos Web/Sistema Facturacion/Facturacion.bak",
@@ -561,8 +531,7 @@
 		"/C/Users/acidm/Documents/proyectos HTML/piedra.js",
 		"/C/Users/acidm/Documents/proyectos HTML/Campo  Minado/Minas.js",
 		"/C/Users/acidm/Documents/proyectos HTML/PiedraPapelTijera.html",
-		"/C/Users/acidm/Documents/proyectos HTML/Campo  Minado/JuegoCampoMinado.html",
-		"/C/Users/acidm/Documents/proyectos HTML/piedrappp.js"
+		"/C/Users/acidm/Documents/proyectos HTML/Campo  Minado/JuegoCampoMinado.html"
 	],
 	"find":
 	{
@@ -580,6 +549,7 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"navbar",
 			"=\"ratings\"",
 			"ratings",
 			"Clientes",
@@ -637,28 +607,30 @@
 	"groups":
 	[
 		{
-			"selected": 6,
+			"selected": 2,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/C/Users/acidm/Downloads/startbootstrap-shop-item-1.0.4/css/shop-item.css",
+					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 596,
+						"buffer_size": 5098,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3,
-								3
+								4550,
+								966
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/CSS/CSS.tmLanguage"
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -668,72 +640,46 @@
 				},
 				{
 					"buffer": 1,
-					"file": "clientes-administrar.html",
+					"file": "/C/Users/acidm/Desktop/startbootstrap-landing-page-1.0.5/index.html",
 					"settings":
 					{
-						"buffer_size": 7778,
+						"buffer_size": 11188,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								6110,
-								6115
+								5466,
+								5466
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1611.0,
+						"translation.y": 2746.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 2,
+					"file": "/C/Users/acidm/Desktop/startbootstrap-landing-page-1.0.5/css/landing-page.css",
 					"settings":
 					{
-						"buffer_size": 45,
+						"buffer_size": 2933,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								45,
-								45
-							]
-						],
-						"settings":
-						{
-							"auto_name": "<form class=\"form-horizontal\" role=\"form\">",
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "css/shop-item.css",
-					"settings":
-					{
-						"buffer_size": 1782,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								240,
-								212
+								737,
+								737
 							]
 						],
 						"settings":
@@ -743,91 +689,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 16.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "clientes-empresas-adm.html",
-					"settings":
-					{
-						"buffer_size": 7732,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								6078,
-								6078
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1491.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "productos-administrar.html",
-					"settings":
-					{
-						"buffer_size": 7753,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								6126,
-								6126
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1444.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "productos-categorias-adm.html",
-					"settings":
-					{
-						"buffer_size": 7752,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								6127,
-								6127
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 740.0,
+						"translation.y": 264.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
