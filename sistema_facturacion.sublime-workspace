@@ -287,24 +287,24 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 5098,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/Users/acidm/Desktop/startbootstrap-landing-page-1.0.5/index.html",
-			"settings":
-			{
-				"buffer_size": 11188,
-				"line_ending": "Unix"
+				"buffer_size": 12013,
+				"line_ending": "Windows"
 			}
 		},
 		{
 			"file": "/C/Users/acidm/Desktop/startbootstrap-landing-page-1.0.5/css/landing-page.css",
 			"settings":
 			{
-				"buffer_size": 2933,
+				"buffer_size": 3269,
 				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/shop-item.css",
+			"settings":
+			{
+				"buffer_size": 1782,
+				"line_ending": "Windows"
 			}
 		}
 	],
@@ -404,10 +404,12 @@
 	},
 	"file_history":
 	[
+		"/C/Users/acidm/Desktop/startbootstrap-landing-page-1.0.5/index.html",
+		"/C/Users/acidm/Documents/Proyectos Web/Sistema Facturacion/clientes-administrar.html",
+		"/C/Users/acidm/Desktop/startbootstrap-landing-page-1.0.5/css/animate.css",
 		"/C/Users/acidm/Documents/Proyectos Web/Sistema Facturacion/css/shop-item.css",
 		"/C/Users/acidm/Documents/Proyectos Web/Sistema Facturacion/css/main.css",
 		"/C/Users/acidm/Documents/Proyectos Web/Sistema Facturacion/css/bootstrap.css",
-		"/C/Users/acidm/Documents/Proyectos Web/Sistema Facturacion/clientes-administrar.html",
 		"/C/Users/acidm/Downloads/startbootstrap-shop-item-1.0.4/css/shop-item.css",
 		"/C/Users/acidm/Documents/Proyectos Web/Sistema Facturacion/productos-categorias-adm.html",
 		"/C/Users/acidm/Documents/Proyectos Web/Sistema Facturacion/productos-administrar.html",
@@ -529,9 +531,7 @@
 		"/C/Users/acidm/Documents/proyectos HTML/Dibujo Canvas/canvas.js",
 		"/C/Users/acidm/Documents/proyectos HTML/Ciclos.html",
 		"/C/Users/acidm/Documents/proyectos HTML/piedra.js",
-		"/C/Users/acidm/Documents/proyectos HTML/Campo  Minado/Minas.js",
-		"/C/Users/acidm/Documents/proyectos HTML/PiedraPapelTijera.html",
-		"/C/Users/acidm/Documents/proyectos HTML/Campo  Minado/JuegoCampoMinado.html"
+		"/C/Users/acidm/Documents/proyectos HTML/Campo  Minado/Minas.js"
 	],
 	"find":
 	{
@@ -607,7 +607,7 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -615,15 +615,15 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 5098,
+						"buffer_size": 12013,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4550,
-								966
+								6013,
+								6013
 							]
 						],
 						"settings":
@@ -640,46 +640,18 @@
 				},
 				{
 					"buffer": 1,
-					"file": "/C/Users/acidm/Desktop/startbootstrap-landing-page-1.0.5/index.html",
-					"settings":
-					{
-						"buffer_size": 11188,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								5466,
-								5466
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 2746.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
 					"file": "/C/Users/acidm/Desktop/startbootstrap-landing-page-1.0.5/css/landing-page.css",
 					"settings":
 					{
-						"buffer_size": 2933,
+						"buffer_size": 3269,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								737,
-								737
+								3269,
+								3269
 							]
 						],
 						"settings":
@@ -689,7 +661,35 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 264.0,
+						"translation.y": 2201.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "css/shop-item.css",
+					"settings":
+					{
+						"buffer_size": 1782,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								55,
+								27
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
