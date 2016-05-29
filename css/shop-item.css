@@ -9,6 +9,7 @@ LEAF FACTURACION
 
 body {
     padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+    
 }
 
 .sect{
@@ -79,6 +80,23 @@ footer {
 }
 
 
+
+.imagen{
+    width: 80%;
+    margin:0 auto;
+}
+
+@media (max-width: 768px){
+    .imagen{
+        width: 50%;
+        margin:0 auto;
+    }
+}
+
+
+.center{
+    text-align: center;
+}
 
 /*.dropdown-menu .sub-menu {
     left: 100%;
